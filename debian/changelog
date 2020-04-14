@@ -1,0 +1,5 @@
+wazo-python-flask-graphql-packaging (2.0.1-1~wazo1) wazo-dev-buster; urgency=medium
+
+  * Initial release
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Thu, 14 Apr 2020 15:37:00 +0400
