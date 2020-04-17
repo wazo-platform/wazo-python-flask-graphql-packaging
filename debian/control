@@ -16,4 +16,3 @@ Depends: ${misc:Depends},
          python3-promise
 Description: GraphQL extension for Flask
  .
-Adds GraphQL support to your Flask application.
